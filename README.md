@@ -10,7 +10,7 @@ Net Esolutions (NETE) is looking to create a web-based single page application t
 - The application must be 508 compliant.
 - The developer must incorporate one other weather component of their choice.
 
-When this task is completed push yoour code to https://github.com/nete-interview/weather-app by creating a seperate branch using the following naming convention: 'Last Name'_ 'date'.
+When this task is completed push your code to your own Github repo and send us the link of your repo.
 
 **References**
 --------------------
