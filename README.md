@@ -16,7 +16,7 @@ When this task is completed push your code to your own Github repo and send the 
 --------------------
 #### Weather
 
-- API docs: https://openweathermap.org
+- API docs: https://openweathermap.org/api
 - API Key: b87ef13e00bc9136960cd7c0541a91b3
 
 #### NETE Branding
